@@ -1,4 +1,4 @@
-# High-Altitude Welding Drone 🔧
+# Welding Drone 🔧
 
 **Project Overview:**  
 This project proposes a *high-altitude welding drone* integrating flight control, small MIG welding, and computer vision.
